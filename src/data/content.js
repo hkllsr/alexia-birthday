@@ -50,7 +50,7 @@ export const content = {
     { image: 'images/memories/first-date.jpg', title: 'our first date', description: 'the day we forgot about everything else.', date: '', ratio: '3/4' },
     { image: 'images/memories/smile.jpg', title: 'my favorite smile', description: 'your beautiful smile, one that you probably don’t know I still remember to this day.', date: '', ratio: '1/1' },
     { image: 'images/memories/ordinary-days.jpg', title: 'an ordinary day', description: 'another ordinary day with my favorite person.', date: '', ratio: '4/3' },
-    { image: 'images/memories/wish.jpg', title: 'a moment to live in again', description: 'the first time i give you something that you really wanted, you’re ', date: '', ratio: '3/4' },
+    { image: 'images/memories/wish.jpg', title: 'a moment to live in again', description: 'the first time i give you something that you really wanted.', date: '', ratio: '3/4' },
     { image: 'images/memories/sleep.jpg', title: 'a place to feel safe', description: 'even on days when you weren’t feeling well, you still let me stay. and somehow, watching you fall asleep on the other side of the screen made me feel needed in a way I can’t quite explain.', date: '', ratio: '4/3' },
     { image: 'images/memories/fav.jpg', title: 'i just like it', description: 'i honestly don’t know what it is about this picture. i just know that i could look at it over and over again, and somehow, you never get any less beautiful to me.', date: '', ratio: '1/1' },
   ],
